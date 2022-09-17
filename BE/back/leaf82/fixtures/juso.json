@@ -1,0 +1,2082 @@
+[
+{
+    "model": "leaf82.juso",
+    "pk": 1,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "종로구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 2,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 3,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "용산구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 4,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "성동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 5,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "광진구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 6,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "동대문구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 7,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "중랑구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 8,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "성북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 9,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "강북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 10,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "도봉구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 11,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "노원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 12,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "은평구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 13,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "서대문구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 14,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "마포구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 15,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "양천구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 16,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "강서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 17,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "구로구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 18,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "금천구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 19,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "영등포구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 20,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "동작구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 21,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "관악구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 22,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "서초구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 23,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "강남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 24,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "송파구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 25,
+    "fields": {
+        "sido": "서울특별시",
+        "sigungu": "강동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 26,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 27,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 28,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 29,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "영도구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 30,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "부산진구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 31,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "동래구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 32,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 33,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 34,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "해운대구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 35,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "사하구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 36,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "금정구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 37,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "강서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 38,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "연제구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 39,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "수영구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 40,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "사상구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 41,
+    "fields": {
+        "sido": "부산광역시",
+        "sigungu": "기장군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 42,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 43,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 44,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 45,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 46,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 47,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "수성구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 48,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "달서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 49,
+    "fields": {
+        "sido": "대구광역시",
+        "sigungu": "달성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 50,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 51,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 52,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "미추홀구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 53,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "연수구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 54,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "남동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 55,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "부평구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 56,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "계양구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 57,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 58,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "강화군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 59,
+    "fields": {
+        "sido": "인천광역시",
+        "sigungu": "옹진군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 60,
+    "fields": {
+        "sido": "광주광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 61,
+    "fields": {
+        "sido": "광주광역시",
+        "sigungu": "서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 62,
+    "fields": {
+        "sido": "광주광역시",
+        "sigungu": "남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 63,
+    "fields": {
+        "sido": "광주광역시",
+        "sigungu": "북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 64,
+    "fields": {
+        "sido": "광주광역시",
+        "sigungu": "광산구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 65,
+    "fields": {
+        "sido": "대전광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 66,
+    "fields": {
+        "sido": "대전광역시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 67,
+    "fields": {
+        "sido": "대전광역시",
+        "sigungu": "서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 68,
+    "fields": {
+        "sido": "대전광역시",
+        "sigungu": "유성구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 69,
+    "fields": {
+        "sido": "대전광역시",
+        "sigungu": "대덕구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 70,
+    "fields": {
+        "sido": "울산광역시",
+        "sigungu": "중구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 71,
+    "fields": {
+        "sido": "울산광역시",
+        "sigungu": "남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 72,
+    "fields": {
+        "sido": "울산광역시",
+        "sigungu": "동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 73,
+    "fields": {
+        "sido": "울산광역시",
+        "sigungu": "북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 74,
+    "fields": {
+        "sido": "울산광역시",
+        "sigungu": "울주군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 75,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "수원시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 76,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "수원시 장안구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 77,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "수원시 권선구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 78,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "수원시 팔달구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 79,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "수원시 영통구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 80,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "성남시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 81,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "성남시 수정구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 82,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "성남시 중원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 83,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "성남시 분당구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 84,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "의정부시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 85,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안양시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 86,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안양시 만안구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 87,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안양시 동안구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 88,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "부천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 89,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "광명시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 90,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "평택시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 91,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "동두천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 92,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 93,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안산시 상록구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 94,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안산시 단원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 95,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "고양시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 96,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "고양시 덕양구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 97,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "고양시 일산동구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 98,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "고양시 일산서구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 99,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "과천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 100,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "구리시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 101,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "남양주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 102,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "오산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 103,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "시흥시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 104,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "군포시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 105,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "의왕시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 106,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "하남시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 107,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "용인시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 108,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "용인시 처인구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 109,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "용인시 기흥구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 110,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "용인시 수지구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 111,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "파주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 112,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "이천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 113,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "안성시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 114,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "김포시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 115,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "화성시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 116,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "광주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 117,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "양주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 118,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "포천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 119,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "여주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 120,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "연천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 121,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "가평군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 122,
+    "fields": {
+        "sido": "경기도",
+        "sigungu": "양평군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 123,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "춘천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 124,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "원주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 125,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "강릉시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 126,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "동해시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 127,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "태백시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 128,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "속초시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 129,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "삼척시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 130,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "홍천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 131,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "횡성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 132,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "영월군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 133,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "평창군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 134,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "정선군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 135,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "철원군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 136,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "화천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 137,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "양구군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 138,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "인제군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 139,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "고성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 140,
+    "fields": {
+        "sido": "강원도",
+        "sigungu": "양양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 141,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "청주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 142,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "청주시 상당구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 143,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "청주시 서원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 144,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "청주시 흥덕구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 145,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "청주시 청원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 146,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "충주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 147,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "제천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 148,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "보은군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 149,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "옥천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 150,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "영동군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 151,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "증평군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 152,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "진천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 153,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "괴산군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 154,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "음성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 155,
+    "fields": {
+        "sido": "충청북도",
+        "sigungu": "단양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 156,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "천안시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 157,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "천안시 동남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 158,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "천안시 서북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 159,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "공주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 160,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "보령시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 161,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "아산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 162,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "서산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 163,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "논산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 164,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "계룡시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 165,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "당진시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 166,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "금산군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 167,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "부여군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 168,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "서천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 169,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "청양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 170,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "홍성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 171,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "예산군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 172,
+    "fields": {
+        "sido": "충청남도",
+        "sigungu": "태안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 173,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "전주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 174,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "전주시 완산구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 175,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "전주시 덕진구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 176,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "군산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 177,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "익산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 178,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "정읍시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 179,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "남원시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 180,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "김제시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 181,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "완주군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 182,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "진안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 183,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "무주군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 184,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "장수군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 185,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "임실군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 186,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "순창군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 187,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "고창군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 188,
+    "fields": {
+        "sido": "전라북도",
+        "sigungu": "부안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 189,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "목포시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 190,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "여수시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 191,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "순천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 192,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "나주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 193,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "광양시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 194,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "담양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 195,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "곡성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 196,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "구례군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 197,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "고흥군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 198,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "보성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 199,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "화순군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 200,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "장흥군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 201,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "강진군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 202,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "해남군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 203,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "영암군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 204,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "무안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 205,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "함평군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 206,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "영광군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 207,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "장성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 208,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "완도군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 209,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "진도군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 210,
+    "fields": {
+        "sido": "전라남도",
+        "sigungu": "신안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 211,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "포항시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 212,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "포항시 남구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 213,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "포항시 북구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 214,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "경주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 215,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "김천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 216,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "안동시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 217,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "구미시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 218,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "영주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 219,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "영천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 220,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "상주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 221,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "문경시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 222,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "경산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 223,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "군위군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 224,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "의성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 225,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "청송군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 226,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "영양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 227,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "영덕군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 228,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "청도군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 229,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "고령군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 230,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "성주군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 231,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "칠곡군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 232,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "예천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 233,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "봉화군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 234,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "울진군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 235,
+    "fields": {
+        "sido": "경상북도",
+        "sigungu": "울릉군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 236,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 237,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시 의창구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 238,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시 성산구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 239,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시 마산합포구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 240,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시 마산회원구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 241,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창원시 진해구"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 242,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "진주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 243,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "통영시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 244,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "사천시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 245,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "김해시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 246,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "밀양시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 247,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "거제시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 248,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "양산시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 249,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "의령군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 250,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "함안군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 251,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "창녕군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 252,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "고성군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 253,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "남해군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 254,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "하동군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 255,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "산청군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 256,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "함양군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 257,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "거창군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 258,
+    "fields": {
+        "sido": "경상남도",
+        "sigungu": "합천군"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 259,
+    "fields": {
+        "sido": "제주특별자치도",
+        "sigungu": "제주시"
+    }
+},
+{
+    "model": "leaf82.juso",
+    "pk": 260,
+    "fields": {
+        "sido": "제주특별자치도",
+        "sigungu": "서귀포시"
+    }
+}
+]

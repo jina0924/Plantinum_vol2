@@ -1,0 +1,71 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$B4E98PPirGph4hWI8EI2mS$nu0obe5XqYfMkOzlk9wbpHNLd9gRl4ZvyC3K0iwWYsc=",
+        "last_login": "2022-08-17T13:48:04.013",
+        "is_superuser": true,
+        "username": "PlantinumA109",
+        "first_name": "",
+        "last_name": "",
+        "email": "cloudsea1106@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-08-17T13:24:28.178",
+        "phone_number": null,
+        "addr": "",
+        "zip_code": "",
+        "nickname": "플랜티넘운영자",
+        "photo": "static/profile.jpg",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$UrAeE1xX6xcHmKYHtaCOkm$UxRjx1X2MjYo7bRhAmfYvK7fk0wCQcdy4pe8LLOk1y4=",
+        "last_login": "2022-08-17T13:40:23.654",
+        "is_superuser": false,
+        "username": "plantinumuser",
+        "first_name": "",
+        "last_name": "",
+        "email": "plantinumuser@plantinum.co.kr",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-08-17T13:27:56.063",
+        "phone_number": null,
+        "addr": "",
+        "zip_code": "",
+        "nickname": "싱싱한귤나무1889",
+        "photo": "images/profile/fruit_orange_illust.png",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$ocUuhv1sOO2qWpYfpmfZvz$H6S7uR0yUq+jvAcgcejuQnu0k2/7E2IqnSYDiUV21eI=",
+        "last_login": "2022-08-17T13:54:11.984",
+        "is_superuser": false,
+        "username": "plantinumuser2",
+        "first_name": "",
+        "last_name": "",
+        "email": "plantinumuser2@plantinum.co.kr",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-08-17T13:54:11.816",
+        "phone_number": null,
+        "addr": "",
+        "zip_code": "",
+        "nickname": "싱싱한소나무1491",
+        "photo": "static/profile.jpg",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

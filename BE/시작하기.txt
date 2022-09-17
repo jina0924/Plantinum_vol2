@@ -1,0 +1,105 @@
+1. mysql을 사용하는 경우
+
+(1) mysql workbench에서 유저, 스키마 생성 (테이블은 생성하지 않습니다.)
+(2) git pull (현재 develop 브랜치에서 받아주세요)
+(3) S07P11A109/BE/back 폴더에서 VSCode를 열고
+터미널에 
+python -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+차례대로 입력 
+(4) manage.py 파일과 동일한 레벨에서 my_settings.py 파일 생성
+(5) my_settings.py 파일 내용에
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': '연동할 MySQL의 데이터베이스 이름',
+        'USER': '유저이름',
+        'PASSWORD': '비밀번호',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
+    }
+}
+
+SECRET_KEY = '시크릿키'
+
+을 입력합니다. 
+(6) 터미널에
+python manage.py migrate
+입력합니다.
+
+---------------------------------------------------------------------------
+
+2. sqlite을 사용하는 경우
+
+(1) git pull (현재 develop 브랜치에서 받아주세요)
+(2) S07P11A109/BE/back 폴더에서 VSCode를 열고
+터미널에 
+python -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+차례대로 입력 
+(3) PLANTinum_back/settings.py 에서
+14번째 import my_settings 삭제,
+24번째 SECRET_KEY = my_settings.SECRET_KEY 를 SECRET_KEY = '시크릿키' 로 변경,
+97번째 DATABASES = my_settings.DATABASES 를
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
+로 변경합니다.
+(4) 터미널에
+python manage.py migrate
+입력합니다.
+
+---------------------------------------------------------------------------
+
+3. 이제 정상적으로 잘 되는지 알아봅시다.
+
+POSTMAN을 다운받아주세요.
+브라우저만으로는 확인이 불가능합니다.
+
+(1) 터미널에
+python manage.py runserver
+입력합니다.
+(2) 주소창을 클릭하면 브라우저가 열리면서 Page not found 가 나옵니다. 정상입니다. 브라우저 안씁니다.
+(3) POSTMAN을 실행합니다. 상단의 Workspaces/My Workspace에서 +버튼을 통해 요청창을 띄우고
+주소창에 http://127.0.0.1:8000/accounts/signup/ 을 입력합니다.
+(4) 좌측 요청방식을 GET에서 POST로 변경하고, Body를 form-data 혹은 raw로 설정합니다.
+(5) 아무것도 입력하지 않은 상태에서 Send를 클릭하시면 
+{
+    "username": [
+        "This field is required."
+    ],
+    "password1": [
+        "This field is required."
+    ],
+    "password2": [
+        "This field is required."
+    ],
+    "phone_number": [
+        "This field is required."
+    ],
+    "addr": [
+        "This field is required."
+    ],
+    "zip_code": [
+        "This field is required."
+    ],
+    "nickname": [
+        "This field is required."
+    ]
+}
+
+이렇게 값 입력이 필요한 컬럼이 표시됩니다. 
+Body가 form-data인 경우엔 KEY에 컬럼을 하나하나 추가해주시고 VALUE에 값을 입력해주세요. 
+Body가 raw인 경우엔 그대로 {} 전부 복사해서 그대로 값만 변경해주시면 됩니다.
+(6) SEND 버튼을 누릅니다. 
+(7) token key가 발급되면서 정상적으로 회원가입, 로그인이 됩니다.
+{
+    "key": "9cd3c45157412bd9d8ed8739f9abc217b6f28103"
+}
+
+

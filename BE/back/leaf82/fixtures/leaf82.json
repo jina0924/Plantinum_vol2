@@ -1,0 +1,178 @@
+[
+{
+    "model": "leaf82.leaf82",
+    "pk": 1,
+    "fields": {
+        "plantname": "필로덴드론 버킨",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_01.jpg",
+        "created_at": "2022-08-17T13:46:41.161",
+        "content": "역삼역에서 직거래해요^^",
+        "price": 30000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 2,
+        "addr": 23,
+        "posting_addr": 239619
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 2,
+    "fields": {
+        "plantname": "스투키",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_02.jpg",
+        "created_at": "2022-08-17T13:47:42.999",
+        "content": "멀티캠퍼스에서 키우기 좋아요~",
+        "price": 10000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 2,
+        "addr": 23,
+        "posting_addr": 580951
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 3,
+    "fields": {
+        "plantname": "몬스테라",
+        "photo": "images/leaf82/KakaoTalk_20220817_134801036.jpg",
+        "created_at": "2022-08-17T13:49:46.274",
+        "content": "몬스테라 비싼 거 다들 아시죠?^^\r\n네고 안돼요~\r\n채팅 주세요^^",
+        "price": 4000000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 1,
+        "addr": 235,
+        "posting_addr": 212159
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 4,
+    "fields": {
+        "plantname": "문샤인",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_12.jpg",
+        "created_at": "2022-08-17T13:51:32.520",
+        "content": "문크리스탈파워✨",
+        "price": 5000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 1,
+        "addr": 5,
+        "posting_addr": 319154
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 5,
+    "fields": {
+        "plantname": "칼라데아 오나타",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_11.jpg",
+        "created_at": "2022-08-17T13:52:33.221",
+        "content": "잠실역~장미상가 근처에서 만나요!",
+        "price": 50000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 1,
+        "addr": 24,
+        "posting_addr": 477464
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 6,
+    "fields": {
+        "plantname": "피토니아",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_10.jpg",
+        "created_at": "2022-08-17T13:53:42.547",
+        "content": "이유있는 네고 가능",
+        "price": 40000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 1,
+        "addr": 254,
+        "posting_addr": 133775
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 7,
+    "fields": {
+        "plantname": "칼라데아 오나타",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_09.jpg",
+        "created_at": "2022-08-17T13:55:03.596",
+        "content": "사진에서 보이는 것처럼 싱싱해요",
+        "price": 43000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 3,
+        "addr": 23,
+        "posting_addr": 211577
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 8,
+    "fields": {
+        "plantname": "페페",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_08.jpg",
+        "created_at": "2022-08-17T13:55:59.721",
+        "content": "아몬드페페입니다 연락주세요",
+        "price": 15000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 3,
+        "addr": 23,
+        "posting_addr": 331787
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 9,
+    "fields": {
+        "plantname": "피토니아",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_06.jpg",
+        "created_at": "2022-08-17T13:56:41.933",
+        "content": "화이트스타입니다~",
+        "price": 20000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 3,
+        "addr": 14,
+        "posting_addr": 225413
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 10,
+    "fields": {
+        "plantname": "칼라데아 오나타",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_05.jpg",
+        "created_at": "2022-08-17T13:57:56.837",
+        "content": "정조대왕이 키우던 식물이랍니다 진짜예요~",
+        "price": 33000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 3,
+        "addr": 76,
+        "posting_addr": 567115
+    }
+},
+{
+    "model": "leaf82.leaf82",
+    "pk": 11,
+    "fields": {
+        "plantname": "칼라데아 오나타",
+        "photo": "images/leaf82/KakaoTalk_20220817_133809832_03.jpg",
+        "created_at": "2022-08-17T13:58:54.963",
+        "content": "칼라데아 다들 아시죠?",
+        "price": 32000,
+        "category_class": "분양해요",
+        "status_class": "분양대기",
+        "user": 3,
+        "addr": 104,
+        "posting_addr": 740394
+    }
+}
+]

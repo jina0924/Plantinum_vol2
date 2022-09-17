@@ -1,0 +1,3314 @@
+[
+{
+    "model": "plants.plants",
+    "pk": 1,
+    "fields": {
+        "name": "가울테리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 2,
+    "fields": {
+        "name": "개운죽",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "수경은 물주기가 필요 없으나, 화분은 1-2주에 한번씩 충분히 관수한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 3,
+    "fields": {
+        "name": "골드크레스트 윌마",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "겨울에는 건조하게 관리한다. 어린 나무일수록 물을 더 자주 준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 4,
+    "fields": {
+        "name": "공작야자",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 5,
+    "fields": {
+        "name": "관엽베고니아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 6,
+    "fields": {
+        "name": "관음죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "관음죽을 지하관수나 수경재배로 기르는 경우에는 수돗물 속의 염분이나 미네랄이 잎 끝에 축적되어 갈색으로 변할 수도 있다. 이런 현상이 나타날 때에는 갈색으로 변한 부분만 가위로 잘라내면 된다. 그러면 염분도 제거할 수 있고 특유의 톱니모양의 녹색 잎을 유지시킬 수 있다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 7,
+    "fields": {
+        "name": "구문초",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 8,
+    "fields": {
+        "name": "구즈마니아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "이 구즈마니아는 습도가 높은 것을 좋아하며, 음지에서 잘 자라기 때문에 아파트에서 기를 경우 차광을 강하게 하는 것이 바람직하다. 생육에 알맞은 온도는 낮에는 25-30℃, 밤에는 20℃ 정도이며 추위에는 약한 편으로 겨울에 10℃ 이상은 유지해 주어야 안전하게 월동할 수 있다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 9,
+    "fields": {
+        "name": "군자란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "군자란의 수명은 30년 이상으로 장수하는 식물이다.어린 묘로부터 시작하면 3년은 지나야 꽃이 피지만, 일단 꽃을 피운 것은 이듬해부터는 매년 꽃을 피운다. 씨앗으로 번식해도 되지만 꽃이 피기까지 5년 정도 걸리기 때문에 보통은 포기나누기 한다. 씨앗은 11월경에 충분히 성숙된 것을 따서 뿌리면 되는데 다소 저온인 16-21℃에서 발아가 잘된다. 포기나누기는 늦은 겨울이나 이른 봄에 한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 10,
+    "fields": {
+        "name": "글레코마",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 11,
+    "fields": {
+        "name": "금목서",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "실내환경: 밝고 시원한 곳, 전지전정: 무성한 성장을 촉진시키기 위해 정기적으로 적심함"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 12,
+    "fields": {
+        "name": "금사철나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 13,
+    "fields": {
+        "name": "금식나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 14,
+    "fields": {
+        "name": "금전수",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 15,
+    "fields": {
+        "name": "금천죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "식물체 중심 잎과 잎 포기 사이 물통에 물이 고이도록 한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 16,
+    "fields": {
+        "name": "기누라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 17,
+    "fields": {
+        "name": "꽃베고니아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "1년 내내 꽃을 피워내는 귀한 식물이다. 실내, 실외 화단에 꼭 필요하며 생장속도가 빨라서 식물이 너무 무성해지면 통풍이 되지 않으므로 주의한다. 시든잎과 시든꽃잎은 자주 따 준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 18,
+    "fields": {
+        "name": "나도풍란",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "보통 풍란 하면 소엽풍란을 말한다. 나도풍란은 잎이 넓은 대엽풍란이다. 자연 상태에서는 6년 정도가 지나야 꽃을 피우는데, 그 향기가 진하여 취할 정도로 좋다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 19,
+    "fields": {
+        "name": "나한송",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "실내의 불량한 환경에도 잘 견디며 생장이 더디며 많은 관리를 필요로 하지 않는다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 20,
+    "fields": {
+        "name": "남천",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "분흙의 물빠짐이 좋아야 한다. 지나친 과습과 건조는 잎을 황화시켜 떨어지게 한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 21,
+    "fields": {
+        "name": "네마탄투스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 22,
+    "fields": {
+        "name": "네오레겔리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "잎이 단단하여 오래가지만 몸에 가시가 있어 세게 만지면 다친다.개화기에는 가운데 있는 잎들이 포인세티아처럼 빨갛게 또는 보랏빛으로 물이 들어 오랜 기간동안 그 모습을 유지한다. 포엽 가운데 물이 차며 여기서 청보라색의 꽃이 핀다. 잎을 보는 관엽식물로써 실내분화용으로 쓰인다. 우리나라에서도 즐겨 재배되고 있으며 화원에서 쉽게 구할 수 있다. 꽃대는 거의 뻗어 나오질 않고 원통 속에서 꽃이 핀다.이 식물의 생육습성은 착생형으로 일부 동양란들처럼 뿌리가 공기에 많이 노출돼야 잘 자란다. 그래서 통기성이 아주 뛰어난 바크(소나무 껍질 같은 유기물) 같은 용토에 심는 것이 보통이다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 23,
+    "fields": {
+        "name": "녹영",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 24,
+    "fields": {
+        "name": "뉴기니아봉선화",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물을 매우 좋아하므로 생장기에는 충분히 주지만, 흙이 물에 잠겨있으면, 뿌리가 썩을 수 있다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 25,
+    "fields": {
+        "name": "대만고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "환경에 빨리 적응하지 못하므로 갑자기 햇빛으로 내 놓거나, 실내로 옮기면 잎이 많이 떨어지므로 서서히 적응기간을 두어 옮긴다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 26,
+    "fields": {
+        "name": "더피고사리",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "매일 분무해서 공기 중의 습도를 높여 준다. 수분이 부족하게 되면 바로 잎끝이 상한다. 한번 말리면 회복이 힘들다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 27,
+    "fields": {
+        "name": "덕구리난",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "적절한 환기가 필요함, 여름동안 햇볕이 잘드는 위치에 배치하는 것이 좋음."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 28,
+    "fields": {
+        "name": "데코라고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 29,
+    "fields": {
+        "name": "덴파레",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "봄-가을 까지는 실외에 두고 꽃이 개화하여 80%정도에서 꽃대를 잘라주면 새로운 싹을 받기에 좋다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 30,
+    "fields": {
+        "name": "도깨비고비",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 31,
+    "fields": {
+        "name": "돈나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 32,
+    "fields": {
+        "name": "동백",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "겨울철 바람으로 인한 탈수피해가 있을 수 있어 노출을 주의함. 지나친 가지치기를 피함"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 33,
+    "fields": {
+        "name": "둥근잎 아랄리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "성장기인 5~9월엔 분흙의 상태를 보아 1주일을 기준으로 물관리함 흙이 마르지 않게 조절하되 과습하지 않도록 주의. 과습은 잎이 노랗게 마르면서 낙엽이 지거나 줄기가 썩는 원인. 온도가 낮아지면 낙엽 지고, 봄이 되어야 잎이 나옴"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 34,
+    "fields": {
+        "name": "듀란타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 35,
+    "fields": {
+        "name": "드라세나 송오브자마이카",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 겨울철에는 차가운물을 사용하면 잎이 황변할 수 있으므로 하루쯤 받아둔 물을 사용. 난방으로 실내가 건조할 경우 분무로 습도 높어줌. 흙의 상태, 관리환경에 따라 분흙이 마르는 듯하면 충분이 줌.(물이 부족하면 잎무늬에 기미가 끼게 되고 건조하면 응애가 발생함) 병충해: 불소 화합물 독성 때문에 잎끝이 갈변되고 살충제로 인해 잎가장자리가 타기도 함. 응애, 깍지벌레 등, 과습이 심할 경우 부패, 시들, 잎반점 등 나타남."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 36,
+    "fields": {
+        "name": "드라세나 와네끼",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 균일하게 촉촉함 유지, 빗물사용시 산성화 주의, 따뜻한물 사용"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 37,
+    "fields": {
+        "name": "드라세나 송오브인디아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 흙의 상태,관리환경에 따라 분흙이 마르는 듯하면 충분이 줌.(물이 부족하면 잎무늬에 기미가 끼게 되고 건조하면 응애가 발생함) 불소 화합물 독성 때문에 잎끝이 갈변되고 살충제로 인해 잎가장자리가 타기도 함. 과습이 심할 경우 부패, 시들음, 잎반점 등 나타남."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 38,
+    "fields": {
+        "name": "드라세나 자바",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 39,
+    "fields": {
+        "name": "드라세나 콤팩타",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 40,
+    "fields": {
+        "name": "드라세나 트리컬러 레인보우",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 41,
+    "fields": {
+        "name": "드라세나 드라코",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 온수사용"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 42,
+    "fields": {
+        "name": "드라세나 마지나타",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 찬물 사용 주의"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 43,
+    "fields": {
+        "name": "드라세나 맛상게아나",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "비료: 오래된 나무인 경우는 봄과 여름동안 비료 시비량을 증가한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 44,
+    "fields": {
+        "name": "드라세나 산데리아나",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 겨울철에 찬수돗물은 잎을 노랗게 변하므로 하루쯤 받아 둔 물을 줌. 기타: 실내 건조시 잎에 분무해주면 잎도 싱싱해지고 병충해 피해도 줄일 수 있음."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 45,
+    "fields": {
+        "name": "드라세나 산데리아나 세레스",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 46,
+    "fields": {
+        "name": "드라세나 수르쿨로사",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 47,
+    "fields": {
+        "name": "디지고데카",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 48,
+    "fields": {
+        "name": "디펜바키아 마리안느",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "고온 다습을 좋아하므로 공중습도를 높게 유지한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 49,
+    "fields": {
+        "name": "디펜바키아 트로픽스노우",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 50,
+    "fields": {
+        "name": "떡갈잎 고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "여름에 물이 젖은 천으로 잎을 닦아준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 51,
+    "fields": {
+        "name": "러브체인",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "번식 후 어느정도 성장할때까지 습윤한 토양과 안개에 주의함. 환기: 규칙적인 환기가 필요. 물관리: 과습과 과한 물주기는 피해야 함. 빗물을 주면 토양이 산성화 될 수도 있음. 따뜻한 물을 사용하세요. 행잉 바구니에 적합한 식물."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 52,
+    "fields": {
+        "name": "렉스베고니아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 차가운 물로 관수하지 않는다. 식물을 물 속에 침수하지 않는다. 벤치 아래, 시원하고 습한 그늘에 가장 이상적인 성장을 한다. 행잉 바스켓에 잘 어울린다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 53,
+    "fields": {
+        "name": "루모라고사리",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 54,
+    "fields": {
+        "name": "루스커스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "매우 건조하고 그늘진 토양에서 가장 널리 번식, 성장함."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 55,
+    "fields": {
+        "name": "마란타 류코뉴라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "따뜻하고, 습한 지역에서 잘 성장함. 온습도: 건조하고 추운 환경에서는 잎이 갈색으로 변하여 떨어지거나 잎이 틀어질 수 있음. 물주기: 빗물을 사용하면 토양이 산성화 될 수 있으므로 주의, 온수사용"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 56,
+    "fields": {
+        "name": "마삭줄",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 적당히 건조한 상태 유지, 빗물 사용 시 토양이 산성화 될 수있으므로 주의, 온수사용함. 덩굴식물이 서로 얽히지 않도록 수시로 가지치기를 해주도록 함."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 57,
+    "fields": {
+        "name": "만년청",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "여름관리: 오전 햇빛은 잠시 받는 정도가 좋으며, 오후 햇빛은 도움이 되지 않음. 통풍은 신선한 바람이 잘 통하게 하여야 습기가 건조해지면서 뿌리와 새순이 잘 나옴. 겨울부터 초봄까지 부는 바람은 무늬와 모양, 색깔을 변하므로 피함. 물주기: 분흙이 마르는 듯하면 주며, 표면이 까실까실한 정도가 좋음."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 58,
+    "fields": {
+        "name": "만데빌라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 59,
+    "fields": {
+        "name": "멕시코소철",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "강한 빛과 그늘 모두 잘 적응하여 성장하는 식물임."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 60,
+    "fields": {
+        "name": "멜라니 고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "물관리: 차가운 물로 관수하지 않는다. 더운 여름에는 물 젖은 천으로 잎을 닦아준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 61,
+    "fields": {
+        "name": "목베고니아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "실내환경: 충분한 햇빛 좋아함. 건조한 공기는 병충해문제를 악화시킴. 심기: 흙을 너무 단단하게 포장하지 않도록 주의함. 물주기: 일주일에 한번 충분히 줌. 가지치기: 순치기, 솎음, 자르기."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 62,
+    "fields": {
+        "name": "몬스테라",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "물관리: 빗물을 주면 토양이 산성화 될 수도 있음. 따뜻한 물을 사용하세요. 더운 여름에는 물 젖은 천으로 잎을 닦아 주고, 분무해 줌."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 63,
+    "fields": {
+        "name": "무늬관음죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 64,
+    "fields": {
+        "name": "무늬마삭줄",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "물주기: 적당히 건조한 상태 유지, 빗물 사용 시 토양이 산성화 될 수있으므로 주의, 온수사용함. 동결 날씨에 견디지 못함. 덩굴식물이 서로 얽히지 않도록 수시로 가지치기를 해주도록 함."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 65,
+    "fields": {
+        "name": "무늬벤자민고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 66,
+    "fields": {
+        "name": "무늬산호수",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 67,
+    "fields": {
+        "name": "무늬석창포",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "습한 토양에서도 잘 자란다. 식물체의 깔끔하게 유지하기 위해서는 정기적인 잎 정리가 필요하다. 컨테이너 정원과 암석 정원을 조성할때 잘 어울린다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 68,
+    "fields": {
+        "name": "무늬쉐플레라 홍콩",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "건조한 환경에서 잘 견디며, 밝은 그늘과 반 그늘에서도 무난하게 자란다. 늦은 봄부터 햇빛을 잘 받도록 하며, 한여름의 강한 직사광에는 차광을 하거나 밝은 그늘에서 관리한다. 햇빛과 통풍이 중요하다. 과습에 주의(과습되면 잎의 색깔이 암록색을 띄며 떨어지게 되며, 여름철 너무 건조하게 관리해도 잎이 주름지거나 오그라들면서 떨어짐) 물주기: 불규칙적으로 하면 잎의 모양이 고르지 않게 자랄 수도 있다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 69,
+    "fields": {
+        "name": "무늬유카",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "곤충에 취약, 질병 없음"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 70,
+    "fields": {
+        "name": "무늬접란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 71,
+    "fields": {
+        "name": "무늬털머위",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 72,
+    "fields": {
+        "name": "무늬팻츠헤데라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "시비관리: 수용성비료는 2주마다 지침에 따라 사용하며, 완효성비료는 성장하는 계절에 따라 신중하게 한번만 토양에 줌. 겨울동안(10월하순~2월하순)에는 시비하지 않음. 분흙의 물빠짐이 좋아야 한다. 온도가 너무 높지 않도록 주의함, 팻츠헤데라의 반입종으로 팻츠헤데라에 비해서 추위에 약하다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 73,
+    "fields": {
+        "name": "무늬푸밀라고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 74,
+    "fields": {
+        "name": "바위취",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 75,
+    "fields": {
+        "name": "박쥐란",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 76,
+    "fields": {
+        "name": "반딧불털머위",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 77,
+    "fields": {
+        "name": "백량금",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 78,
+    "fields": {
+        "name": "백정화",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 79,
+    "fields": {
+        "name": "백화등",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "토양을 촉촉하게 유지함, 통풍이 잘 되는 곳이 좋다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 80,
+    "fields": {
+        "name": "벤자민고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "환경에 빨리 적응하지 못하므로 갑자기 햇빛으로 내 놓거나, 햇빛에 있다가 실내로 옮기게 되면 잎을 많이 떨구면서 힘든 기간을 보내기 때문에 서서히 적응기간을 주면서 옮기는 것이 좋다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 81,
+    "fields": {
+        "name": "벤자민고무나무 킹",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 82,
+    "fields": {
+        "name": "벵갈고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 83,
+    "fields": {
+        "name": "병솔나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 84,
+    "fields": {
+        "name": "보스톤고사리",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "유기질이 풍부한 화분용 배합토에서 잘 자라고, 뿌리가 화분 가득히 뻗어있는 것이 이상적이다.한여름의 직사광선은 피하고 습도유지가 되어야 잘 자란다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 85,
+    "fields": {
+        "name": "봉의꼬리",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 86,
+    "fields": {
+        "name": "부겐빌레아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053002",
+        "watercycle_winter_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 87,
+    "fields": {
+        "name": "브룬펠시아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 88,
+    "fields": {
+        "name": "브리세아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 89,
+    "fields": {
+        "name": "비젯티접란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 90,
+    "fields": {
+        "name": "비타툼접란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 91,
+    "fields": {
+        "name": "산세베리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 92,
+    "fields": {
+        "name": "산세베리아 골든 하니",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 93,
+    "fields": {
+        "name": "산호수",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "추위에 약해 중부이북에서는 바깥에서 월동이 어렵다. 반 그늘진 곳을 좋아하며 어느 정도 습기유지가 중요하다. 씨앗을 12-4월에 따서 과육을 제거하고 뿌리거나 봄 또는 여름에 줄기를 삽목하면 잘 번식한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 94,
+    "fields": {
+        "name": "삼색데코라고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 95,
+    "fields": {
+        "name": "상록넉줄고사리 후마타",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 96,
+    "fields": {
+        "name": "새우란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 97,
+    "fields": {
+        "name": "석창포",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 98,
+    "fields": {
+        "name": "세네시오 라디칸스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "육질이 많아 잘 부러짐, 서늘한 곳을 좋아한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 99,
+    "fields": {
+        "name": "세이프릿지 야자",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 100,
+    "fields": {
+        "name": "셀라기넬라",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 101,
+    "fields": {
+        "name": "소철",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "뜰에서 재배가능한 제주도를 제외한 나머지 지역에서는 온실이나 집안에서 가꾸는 관상수이다. 꽃은 단성화이며 노란빛을 띤 색으로 6~8월에 암수딴그루로 핀다. 수꽃차례는 원줄기 끝에 원기둥 모양으로 달리며, 길이 50~60cm, 지름 5~8cm이고, 암꽃차례는 원줄기에 끝에 둥글게 모여 달린다. 열매는 구과로 10월에 익는데 관상용, 식용, 약용으로 쓴다. "
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 102,
+    "fields": {
+        "name": "소피아 고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 103,
+    "fields": {
+        "name": "솔레이롤리아",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 104,
+    "fields": {
+        "name": "수박페페로미아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 105,
+    "fields": {
+        "name": "수박필레아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "열대식물이지만 10℃이상에서 월동하여 온실에서 겨울을 나고 그늘이나 직사광선에서도 잘 자란다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 106,
+    "fields": {
+        "name": "숙근이베리스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 107,
+    "fields": {
+        "name": "쉐플레라 홍콩",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 108,
+    "fields": {
+        "name": "스킨답서스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 109,
+    "fields": {
+        "name": "스파티필룸",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 110,
+    "fields": {
+        "name": "스파티필룸 (광엽)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 111,
+    "fields": {
+        "name": "시서스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 112,
+    "fields": {
+        "name": "심비디움",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 113,
+    "fields": {
+        "name": "싱고니움",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 114,
+    "fields": {
+        "name": "아글라오네마",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 115,
+    "fields": {
+        "name": "아데니움",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053004",
+        "watercycle_summer_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 116,
+    "fields": {
+        "name": "아디안텀",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "실내의 습도가 어느 정도인지 측정할 수 있는 지표식물인 만큼 잎에 자주 분무하여 잎이 건조하지 않도록 한다. "
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 117,
+    "fields": {
+        "name": "아라우카리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 118,
+    "fields": {
+        "name": "아레카야자",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "일부 가지에만 염분을 축적하는 독특한 성질을 가지고 있으며 축적된 염분이 포화상태에 이르렀을 때 그 가지가 말라죽게 되므로 이때는 빨리 가지를 잘라주도록 한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 119,
+    "fields": {
+        "name": "아마릴리스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 120,
+    "fields": {
+        "name": "아스파라거스 풀루모수스",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 121,
+    "fields": {
+        "name": "아스플레니움",
+        "watercycle_spring": "053001",
+        "watercycle_spring_nm": "항상 흙을 축축하게 유지함(물에 잠김)",
+        "watercycle_summer": "053001",
+        "watercycle_summer_nm": "항상 흙을 축축하게 유지함(물에 잠김)",
+        "watercycle_autumn": "053001",
+        "watercycle_autumn_nm": "항상 흙을 축축하게 유지함(물에 잠김)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "한여름의 직사광선은 피하고 습도유지가 되어야 잘 자람. 새로운 엽상체는 잘 찢어지므로 취급시 주의한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 122,
+    "fields": {
+        "name": "아왜나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 123,
+    "fields": {
+        "name": "아이비",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 124,
+    "fields": {
+        "name": "아펠란드라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 125,
+    "fields": {
+        "name": "아프리칸 바이올렛",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "잎의 털에 물방울이 고여 있으면 곰팡이병이 생길 수 있고 진한 꽃잎에 물방울이 묻어 물방울이 데워짐으로 꽃 색이 바래질 수 있으므로, 물을 줄때 저면관수 방법이나, 흙으로만 물이 주어지도록 주의한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 126,
+    "fields": {
+        "name": "안수리움",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "여름철 직사광선을 피하고, 겨울철 밝은 빛을 유지해야하며 습한 것을 좋아해 자주 분무 해주는 것이 좋다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 127,
+    "fields": {
+        "name": "알로카시아 아마조니카",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 128,
+    "fields": {
+        "name": "알로카시아 쿠쿨라타",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 129,
+    "fields": {
+        "name": "얼룩자주달개비",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 130,
+    "fields": {
+        "name": "에크메아 파시아타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 131,
+    "fields": {
+        "name": "엘라티올 베고니아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 132,
+    "fields": {
+        "name": "여우꼬리풀",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 133,
+    "fields": {
+        "name": "엽란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 134,
+    "fields": {
+        "name": "옥살리스(사랑초)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 135,
+    "fields": {
+        "name": "온시디움",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053004",
+        "watercycle_autumn_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 136,
+    "fields": {
+        "name": "왜란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 137,
+    "fields": {
+        "name": "왜성종려죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 138,
+    "fields": {
+        "name": "유카",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 139,
+    "fields": {
+        "name": "은사철나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 140,
+    "fields": {
+        "name": "익소라",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 141,
+    "fields": {
+        "name": "인삼벤자민",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 142,
+    "fields": {
+        "name": "자금우",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 143,
+    "fields": {
+        "name": "자란",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 144,
+    "fields": {
+        "name": "자주색만년초",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 145,
+    "fields": {
+        "name": "접란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 146,
+    "fields": {
+        "name": "제라니움",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "겉흙이 마르기 시작하면 충분히 관수함"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 147,
+    "fields": {
+        "name": "좀마삭줄",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 148,
+    "fields": {
+        "name": "종려죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 149,
+    "fields": {
+        "name": "죽백나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 150,
+    "fields": {
+        "name": "줄리아 페페로미아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 151,
+    "fields": {
+        "name": "참쇠고비(섬쇠고비)",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 152,
+    "fields": {
+        "name": "치자나무",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 153,
+    "fields": {
+        "name": "칼라데아 마코야나",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 154,
+    "fields": {
+        "name": "칼라데아 인시그니스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "어두운 곳에 오래 있으면 잎 끝이 아래로 처지거나 싹 끝이 시드는 등의 증상이 있고, 건조할 경우에는 잎이 말리는 현상이 있으므로 직사광선을 피한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 155,
+    "fields": {
+        "name": "칼라데아 크로카타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 156,
+    "fields": {
+        "name": "칼라디움",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 157,
+    "fields": {
+        "name": "칼랑코에",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 158,
+    "fields": {
+        "name": "커피나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 159,
+    "fields": {
+        "name": "켄챠야자",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 160,
+    "fields": {
+        "name": "코르딜리네 레드에지",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 161,
+    "fields": {
+        "name": "크로톤",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "온도에 대해서는 민감하게 반응하여 저온조건에서는 잎이 잘 떨어짐, 매년 봄에 분을 갈아준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 162,
+    "fields": {
+        "name": "크립탄서스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 163,
+    "fields": {
+        "name": "클레마티스",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 164,
+    "fields": {
+        "name": "털달개비",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 165,
+    "fields": {
+        "name": "털머위",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 166,
+    "fields": {
+        "name": "테이블야자",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "충분한 관수를 해주는 것이 중요하다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 167,
+    "fields": {
+        "name": "틸란드시아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 168,
+    "fields": {
+        "name": "파키라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 169,
+    "fields": {
+        "name": "파피오페딜럼",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 170,
+    "fields": {
+        "name": "팔레놉시스(호접란)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "실내공기가 너무 건조하면 개각충이나 응애가 발생함"
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 171,
+    "fields": {
+        "name": "팔손이나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "4~9월까지 년 1회 영양관리 권장한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 172,
+    "fields": {
+        "name": "팬더 고무나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 173,
+    "fields": {
+        "name": "팻츠헤데라",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 174,
+    "fields": {
+        "name": "페페로미아 오브투시폴리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 175,
+    "fields": {
+        "name": "페페로미아 클루시폴리아",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 176,
+    "fields": {
+        "name": "페페로미아 푸테올라타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 177,
+    "fields": {
+        "name": "포인세티아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 178,
+    "fields": {
+        "name": "폴리시아스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 179,
+    "fields": {
+        "name": "푸밀라고무나무",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "너무 자주 옮겨심기는 피하고 2년에 한 번 정도 덩굴이 무성해졌을 때 가지치기를 한다. 여름에는 잎에 자주 분무해 준다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 180,
+    "fields": {
+        "name": "프테리스",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "고사리과 중에서 잎의 크기와 모양이 다양하고 기르기 쉬운 종류이다. 배양토가 완전히 마르지 않도록 주의하면 아름다운 색상과 모습을 관상할 수 있다. "
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 181,
+    "fields": {
+        "name": "피라칸사",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 182,
+    "fields": {
+        "name": "피토니아 핑크스타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "부분적으로 빛이 드는 장소, 직사광선을 피한다. 봄부터 가을까지 충분하게, 겨울엔 토양이 바싹 마를 때 인색하게 주고 미온수를 이용한다. 갑자기 강한 햇빛에 노출되면 잎이 타기 쉽다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 183,
+    "fields": {
+        "name": "피토니아 화이트스타",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 184,
+    "fields": {
+        "name": "픽투라툼 접란",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 185,
+    "fields": {
+        "name": "필레아 글라우카(타라, 블루체인)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": "너무 그늘에서는 줄기 사이가 길어지며 모양이 흐트러지므로 직사광선을 피한 밝은 빛을 쬐어주면 잎이 엉성하지 않고 귀엽게 자란다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 186,
+    "fields": {
+        "name": "필로덴드론 선라이트",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 187,
+    "fields": {
+        "name": "필로덴드론 제나두",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 188,
+    "fields": {
+        "name": "필로덴드론 고엘디",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 189,
+    "fields": {
+        "name": "필로덴드론 레몬라임",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 190,
+    "fields": {
+        "name": "필로덴드론 셀로움",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 191,
+    "fields": {
+        "name": "필로덴드론 옥시카르디움",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 192,
+    "fields": {
+        "name": "필로덴드론 콩고",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 193,
+    "fields": {
+        "name": "해마리아",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 194,
+    "fields": {
+        "name": "행운목",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 195,
+    "fields": {
+        "name": "헤미오니티스(하트펀)",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "습한 곳을 좋아하지만 뿌리가 물에 잠겨있는 것을 싫어하며, 빛은 좋아하지만 직사광선은 싫어한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 196,
+    "fields": {
+        "name": "헤테로파낙스 프라그란스 (해피트리)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 197,
+    "fields": {
+        "name": "협죽도",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 198,
+    "fields": {
+        "name": "형광스킨답서스",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 199,
+    "fields": {
+        "name": "호야",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 200,
+    "fields": {
+        "name": "호주매",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 201,
+    "fields": {
+        "name": "황금마삭줄",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 202,
+    "fields": {
+        "name": "황금죽",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 203,
+    "fields": {
+        "name": "후피향나무",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 204,
+    "fields": {
+        "name": "흰꽃나도사프란",
+        "watercycle_spring": "053004",
+        "watercycle_spring_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053004",
+        "watercycle_winter_nm": "화분 흙 대부분 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 205,
+    "fields": {
+        "name": "흰줄무늬달개비(트라데스칸티아)",
+        "watercycle_spring": "053003",
+        "watercycle_spring_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_summer": "053003",
+        "watercycle_summer_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_autumn": "053003",
+        "watercycle_autumn_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": "빛이 부족하면 무늬가 없어지므로 주의한다."
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 206,
+    "fields": {
+        "name": "히포에스테스",
+        "watercycle_spring": "053002",
+        "watercycle_spring_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_summer": "053002",
+        "watercycle_summer_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_autumn": "053002",
+        "watercycle_autumn_nm": "흙을 촉촉하게 유지함(물에 잠기지 않도록 주의)",
+        "watercycle_winter": "053003",
+        "watercycle_winter_nm": "토양 표면이 말랐을때 충분히 관수함",
+        "specl_manage_info": ""
+    }
+},
+{
+    "model": "plants.plants",
+    "pk": 207,
+    "fields": {
+        "name": "직접 입력하기",
+        "watercycle_spring": "053000",
+        "watercycle_spring_nm": "정보없음",
+        "watercycle_summer": "053000",
+        "watercycle_summer_nm": "정보없음",
+        "watercycle_autumn": "053000",
+        "watercycle_autumn_nm": "정보없음",
+        "watercycle_winter": "053000",
+        "watercycle_winter_nm": "정보없음",
+        "specl_manage_info": ""
+    }
+}
+]
