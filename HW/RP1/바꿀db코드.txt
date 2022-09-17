@@ -1,0 +1,46 @@
+//1. 처음 식물정보 받아올때 522
+"select A.id, A.nickname, A.otp_code, A.is_connected, B.watercycle_spring
+from plants_myplant A join plants_plants B on A.plant_info_id = B.id
+where otp_code = "
+
+527 : recent_watering을 hum_thredhold로 바꾸고 
+536 : self.hum_threshold = hum_thredhold
+
+//2. otp 성공시 543
+"update plants_myplant set otp_code=NULL, is_connected=1 where id="+self.plant_id
+
+550 줄 이후
+ watercycle_spring으로 받아온 정보 hum_thredhold로 바꾸기 필요
+ 
+ 053000 : 아무정보 없음 0
+ 053001 : 물에 푹담금 80
+ 053002 : 촉촉히 유지 : 임계점 60??
+ 053003 : 표면이 말랐을때 충분히 관수 40?? 
+ 053004 : 대부분 말랐을때 충분히 관수 20??
+
+user_data['hum_threshold'] = [임계숫자] 변환 필요
+hum_threshold 도 변환 필요
+ 
+
+
+
+//3. old plants isconnect 확인 274
+"select is_connected from plants_myplant where id=" + str(user_data['id'])
+
+//4. watering 221
+
+"update plants_sensing
+set last_watering = \"" + w_now_time + "\"
+where id=" + str(user_data['id']) 
+
+//5. send data 198
+"update plants_sensing
+set remaining_water = " +water_amount+ 
+", state_led= " + (1-issleep) +
+", moisture_level = " + soil +
+" where id=" + str(user_data['id']) 
+
+
+//6 닉네임 변경확인 453
+
+"select name from plants_myplant where id=" + str(user_data['id'])

@@ -1,0 +1,66 @@
+GPIO = GPIO로 치환해둠
+spi 모듈 = 토양센서
+Adafruit = DHT11, 온습도 센서
+
+< 핀 전역변수 >
+tempe timer = 시간 측정용, 스레드 사용하게 되면 수정하기
+humSensor = 온습도 센서 23
+모터드라이브 (A 사용) A1A/A1B
+
+Threshold = 20퍼 이하면 물 주기로 하는 것, 임계점
+hum_max
+
+spi = 토양센서
+open을 해줘야지 작동함
+finally에는 close로 닫아줌
+spi.max_speed_hz : 전파조절 속도? 다들 50만을 사용해서 이대로 사용
+
+
+GPIO init : 핀 초기화
+- 모터 output : 일단 LOW로 초기화
+
+Waterlevel 이거 setwarnings이건 적어뒀는데 위에도 적혀있기 때문에 빼도 ok일듯?
+
+LED는 LCD 화면에 띄워줄 것을 미리 LED로 확인해본 것.
+
+그 아래로는 센서 활욜
+
+1. 토양수분 센서
+-read : 아날로그 값으로 입력값 받기
+- 처음엔 0, mcp 모듈을 사용할 것이기 때문에 값 shift
+(buff / adcValue = mcp모듈로 값옮겨줌, adcValue로 값 return)
+adc : 0(젖음) ~ 1023(마름)
+
+2. def map 
+-아날로그 값(0~1023)을 0~100 %로 치환해줌 (마른게 100, 젖은게 0)
+=> main 코드 while문 안에 map있는데 이게 마를 때 0, 젖을 때 100으로 교환해주는 것
+= now hum
+=> 이거 자체를 위에 def로 넣어서 한꺼번에 해둬도 됨
+
+3. 주석처리 된 Humidtemp
+: 온습도 센서
+- 온습도 측정 후 datetime으로
+- now: localtime 받아옴, (date time 안 한 이유? => parsing 힘듦)
+    => 이러면 now.month 등으로 구조체로 넘겨받음.
+    - 이게 db로 넘겨줄 때 조금 더 편해질 수 있다.
+    - 그런데 db column이 datetime이라면 datetime으로 넘겨줘도 됨
+    => 시간, 날짜가 column마다 나누어져 있다면 localtime으로 넘기기
+
+4. waterlevel
+: 수위센서
+- 끝낼 때 try, fianlly로 넘어가야 함
+- adc채널 입력 받아서 (기본값 0) init
+- now_hum : 매핑해서 토양습도 값 알려줌
+- 그 값 기반해서 true 안에서 if 문으로 조절
+- A1B는 무조건 low A1A로 low, high 조절
+- 수위센서 : 1이 젖어있는 것(물에 닿음), 0이 물에 안닿음
+- LED 키도록 했는데 이거 LCD로 수정하면 됨
+- t 값은 10초 주기로 온습도 측정 (t는 0.1초마다 상승 - time sleep)
+    => t=100일때 온습도 측정(주석처리 되어있음)(t=100은 10초)
+- 이걸 토대로 워터펌프 작동함
+* 펌프의 압력이 강하므로 이걸 해결할 방법 알아보기
+    1. 호스를 막고 송곳으로 작은 구멍을 뚫기 (압력 이슈)
+    2. 호스의 끝이 모두 물통으로 향하게 한 다음,
+       호스에 구멍을 뚫어서 (초기 모델) 구멍으로부터 물이 새어나오도록
+
+- 꺼지면 fianlly로 넘어가서 GPIO, spi clean
