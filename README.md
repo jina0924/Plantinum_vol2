@@ -18,28 +18,27 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 ### 기능
 
 > 실시간으로 흙의 습도를 측정
+> 
 > 자동 급수를 진행
+>
 > LED 식물등
+> 
 > LCD 터치스크린을 통한 모니터링
-> Plantinum 웹과 연동
+> 
+> Plantinum, mySQL 웹과 연동
 
-![회로도](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/회로도.PNG)
-
-> 사용 센서 : LCD, 모터 드라이브(L9110S), 워터펌프, DHT11, 네오픽셀 LED, 수위센서(접촉식), 토양수분센서, mcp3008(컨버터)
-
-![구성요소](supool_도면.PNG)
-
-> supool 3D 도면
-
-
-센서로부터 취합된 정보는 mySQL 테이블에 저장됩니다. 이 데이터를 통해 웹페이지와 연동되며 웹에서도 식물의 상태를 모니터링 할 수 있게 됩니다.
 
 
 ### IoT 기기 구성
 [Plantinum 디바이스 시연 영상](https://youtu.be/C1uGjrZCowk)
 
+<img src="README.assets/회로도.PNG">
 
+> 사용 센서 : LCD, 모터 드라이브(L9110S), 워터펌프, DHT11, 네오픽셀 LED, 수위센서(접촉식), 토양수분센서, mcp3008(컨버터)
 
+<img src="README.assets/supool_도면.PNG">
+
+> supool 3D 도면
 
 ### LCD 화면 구성
 <img src="README.assets/supool_new_video.gif">
