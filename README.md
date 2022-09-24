@@ -30,12 +30,34 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 웹은 크게 두 가지 서비스를 제공합니다.
 
 ![1](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/1.png)
-**내 식물**
+
+<details>
+<summary > <span style = 'background-color:#dcffe4; '> <b>내 식물</b> </span></summary>
+<div markdown="1">
+
 > 내 식물 페이지는 식물 모니터링 서비스입니다. 위 페이지에서는 키우고 있는 식물을 등록할 수 있으며 이에 따른 원예 정보를 제공합니다. 수풀과 연동 시 토양 수분량과 최근 관수 시간을 확인할 수 있습니다.
 
+</div>
+</details>
+
+
 ![2](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/2.png)
-**잎팔이**
+
+<details>
+<summary><span style = 'background-color:#dcffe4; '> <b>잎팔이</b> </span></summary>
+<div markdown="1">
+
 > 잎팔이는 식물 거래 서비스입니다. 사이트 내부에서 직접적인 금전이 오가는 대신, 판매자와 구매자가 사이트 내부의 채팅을 통해 약속을 잡고, 사이트 외부에서 거래가 이루어지는 형식입니다. 또한 지역에 따른 게시글 필터링 서비스를 지원하여 사용자의 편리함을 증진시켰습니다.
+
+</div>
+</details>    
+
+<br>
+
+<details>
+<summary> <span style = 'background-color:#dcffe4; '> <b>상세 페이지</b> </span> </summary>
+<div markdown="1">
+
 ### (1) BE
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/BE) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
@@ -46,6 +68,8 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
 
 
+</div>
+</details>
 
 
 
