@@ -19,6 +19,28 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 센서로부터 취합된 정보는 mySQL 테이블에 저장됩니다. 이 데이터를 통해 웹페이지와 연동되며 웹에서도 식물의 상태를 모니터링 할 수 있게 됩니다.
 
+
+# IoT 기기 구성
+[Plantinum 디바이스 시연 영상](https://youtu.be/C1uGjrZCowk)
+
+
+# LCD 화면 구성
+![new](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_new_video.gif)
+> new 버튼 클릭 시 OTP 입력으로 WEB과 연동
+> OTP는 웹의 내식물 상세 페이지에서 확인 가능 (Supool 연동)
+
+![load](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_load_video.gif)
+> load 버튼 클릭 시 supool에 저장되어 있는 정보 불러오기
+
+![detail-main](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_main-detail.gif)
+> 메인 페이지에서 파도의 높이로 토양 습도 확인
+> 디테일 페이지에서 주변환경의 온습도, 토양 수분, 최근 관수 시간, 물통 잔여량 확인
+
+![goodnight](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_goodnight.gif)
+> 절전모드 버튼 클릭 후 5초 뒤 절전모드
+> 화면 터치 시 메인페이지로 이동
+
+
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/HW/Supool) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
