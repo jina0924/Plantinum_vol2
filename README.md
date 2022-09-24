@@ -30,7 +30,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 **회원가입 및 프로필**
 
-<img src="README.assets/signup.gif" align="left">
+<img src="README.assets/signup.gif">
 
 > 회원 가입
 >
@@ -39,7 +39,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/profile.gif" align="left">
+<img src="README.assets/profile.gif">
 
 > 닉네임, 이메일, 연락처, 주소, 프로필 이미지 변경
 >
@@ -52,7 +52,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/change_password.gif" align="left">
+<img src="README.assets/change_password.gif">
 
 > 비밀번호 변경
 
@@ -60,7 +60,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 **내 식물**
 
-<img src="README.assets/my_plant_create.gif" align="left">
+<img src="README.assets/my_plant_create.gif">
 
 > 식물 리스트로부터 식물 선택
 >
@@ -71,7 +71,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/myplant_detail.gif" align="left">
+<img src="README.assets/myplant_detail.gif">
 
 > 계절별 관리 정보와 특별 관리 정보 제공
 >
@@ -82,7 +82,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/myplant_sort.gif" align="left">
+<img src="README.assets/myplant_sort.gif">
 
 > 등록순, 이름순 조회
 
@@ -90,14 +90,14 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 **잎팔이**
 
-<img src="README.assets/leaf82_create.gif" align="left">
+<img src="README.assets/leaf82_create.gif">
 
 > 판매, 구매 게시글 등록 및 조회
 
 
 
 
-<img src="README.assets/leaf82_search.gif" align="left">
+<img src="README.assets/leaf82_search.gif">
 
 > 식물명, 지역별 게시글 검색
 >
@@ -105,7 +105,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/leaf82_chat.gif" align="left">
+<img src="README.assets/leaf82_chat.gif">
 
 > 거래자 간 채팅
 
