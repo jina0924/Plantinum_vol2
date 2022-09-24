@@ -9,19 +9,60 @@
 Plantinum은 크게 두 가지 서비스로 이루어져 있습니다.
 
 
-
 ## 1. IoT
 ![main_pic_4.0010c2f3](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/main_pic_4.0010c2f3.jpg)
 플랜티넘의 IoT 기기 Supool수풀입니다.
 Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀에서 유래했습니다.
 
-수풀에서는 센서를 통해 실시간으로 흙의 습도를 측정하여 자동으로 급수를 진행하며, LED 식물등으로 부족한 채광을 채워줍니다. 이 모든 작업은 터치스크린을 통해 모니터링 할 수 있습니다. 웹으로부터 식물 종류에 따른 원예 정보를 받아오는 것으로 급수량을 조절할 수 있습니다.
+### 기능
 
-센서로부터 취합된 정보는 mySQL 테이블에 저장됩니다. 이 데이터를 통해 웹페이지와 연동되며 웹에서도 식물의 상태를 모니터링 할 수 있게 됩니다.
+> 실시간으로 흙의 습도를 측정
+> 
+> 자동 급수를 진행
+>
+> LED 식물등
+> 
+> LCD 터치스크린을 통한 모니터링
+> 
+> Plantinum, mySQL 웹과 연동
+
+
+### IoT 기기 구성
+[Plantinum 디바이스 시연 영상](https://youtu.be/C1uGjrZCowk)
+
+<img src="README.assets/회로도.PNG">
+
+> 사용 센서 : LCD, 모터 드라이브(L9110S), 워터펌프, DHT11, 네오픽셀 LED, 수위센서(접촉식), 토양수분센서, mcp3008(컨버터)
+<img src="README.assets/supool_도면.PNG">
+
+> supool 3D 도면
+### LCD 화면 구성
+<img src="README.assets/supool_new_video.gif">
+
+> new 버튼 클릭 시 OTP 입력으로 WEB과 연동
+> 
+> OTP는 웹의 내식물 상세 페이지에서 확인 가능 (Supool 연동)
+  
+<img src="README.assets/supool_load_video.gif">
+
+> load 버튼 클릭 시 supool에 저장되어 있는 정보 불러오기
+
+<img src="README.assets/supool_main-detail.gif">
+
+> 메인 페이지에서 파도의 높이로 토양 습도 확인
+> 
+> 디테일 페이지에서 주변환경의 온습도, 토양 수분, 최근 관수 시간, 물통 잔여량 확인
+
+<img src="README.assets/supool_goodnight.gif">
+
+> 절전모드 버튼 클릭 후 5초 뒤 절전모드
+> 
+> 화면 터치 시 메인페이지로 이동
 
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/HW/Supool) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
+
 
 
 ## 2. WEB
