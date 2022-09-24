@@ -107,7 +107,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/profile.gif">
+<img src="README.assets/profile.gif" style="width: 56%;">
 
 > 닉네임, 이메일, 연락처, 주소, 프로필 이미지 변경
 >
@@ -120,7 +120,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
-<img src="README.assets/change_password.gif">
+<img src="README.assets/change_password.gif" style="width: 56%;">
 
 > 비밀번호 변경
 
