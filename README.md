@@ -58,6 +58,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
+
 **내 식물**
 
 <img src="README.assets/my_plant_create.gif">
@@ -111,6 +112,7 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 
+
 ### (1) BE
 
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/BE) /
@@ -123,6 +125,8 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
 
 
+</div>
+</details>
 
 
 ---
