@@ -10,7 +10,7 @@ Plantinum은 크게 두 가지 서비스로 이루어져 있습니다.
 
 
 ## 1. IoT
-![main_pic_4.0010c2f3](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/main_pic_4.0010c2f3.jpg)
+<img src="README.assets/main_pic_4.0010c2f3.jpg" width="65%">
 플랜티넘의 IoT 기기 Supool수풀입니다.
 Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀에서 유래했습니다.
 
@@ -30,10 +30,10 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 ### IoT 기기 구성
 [Plantinum 디바이스 시연 영상](https://youtu.be/C1uGjrZCowk)
 
-<img src="README.assets/회로도.PNG">
+<img src="README.assets/회로도.PNG" width="65%">
 
 > 사용 센서 : LCD, 모터 드라이브(L9110S), 워터펌프, DHT11, 네오픽셀 LED, 수위센서(접촉식), 토양수분센서, mcp3008(컨버터)
-<img src="README.assets/supool_도면.PNG">
+<img src="README.assets/supool_도면.PNG" width="65%">
 
 > supool 3D 도면
 ### LCD 화면 구성
