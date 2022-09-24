@@ -28,6 +28,12 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 ### IoT 기기 구성
+
+
+<details>
+<summary > <b>기능 자세히 보기</b></summary>
+<div markdown="1">
+
 [Plantinum 디바이스 시연 영상](https://youtu.be/C1uGjrZCowk)
 
 <img src="README.assets/회로도.PNG" width="65%">
@@ -36,7 +42,18 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 <img src="README.assets/supool_도면.PNG" width="65%">
 
 > supool 3D 도면
+
+</div>
+</details>
+
+
+
 ### LCD 화면 구성
+
+<details>
+<summary > <b>기능 자세히 보기</b></summary>
+<div markdown="1">
+
 <img src="README.assets/supool_new_video.gif">
 
 > new 버튼 클릭 시 OTP 입력으로 WEB과 연동
@@ -59,6 +76,12 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 > 
 > 화면 터치 시 메인페이지로 이동
 
+</div>
+</details>
+
+<br>
+
+
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/HW/Supool) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
@@ -69,7 +92,11 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 웹은 크게 세 가지 서비스를 제공합니다.
 
-**회원가입 및 프로필**
+### 회원가입 및 프로필
+
+<details>
+<summary > <b>기능 자세히 보기</b></summary>
+<div markdown="1">
 
 <img src="README.assets/signup.gif">
 
@@ -97,10 +124,16 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 > 비밀번호 변경
 
+</div>
+</details>
 
+<br>
 
+### 내 식물
 
-**내 식물**
+<details>
+<summary > <b>기능 자세히 보기</b></summary>
+<div markdown="1">
 
 <img src="README.assets/my_plant_create.gif">
 
@@ -127,10 +160,16 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 <img src="README.assets/myplant_sort.gif">
 
 > 등록순, 이름순 조회
+</div>
+</details>
 
+<br>
 
+### 잎팔이
 
-**잎팔이**
+<details>
+<summary > <b>기능 자세히 보기</b></summary>
+<div markdown="1">
 
 <img src="README.assets/leaf82_create.gif">
 
@@ -150,8 +189,17 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 <img src="README.assets/leaf82_chat.gif">
 
 > 거래자 간 채팅
+</div>
+</details>
 
+<br>
+<br>
+<br>
 
+<details>
+
+<summary > 상세 코드는 여기로 </summary>
+<div markdown="1">
 
 
 ### (1) BE
