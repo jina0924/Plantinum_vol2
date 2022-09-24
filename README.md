@@ -25,18 +25,18 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 
 ### LCD 화면 구성
-<img src="README.assets/supool_new_video.gif", align=left>
+<img src="README.assets/supool_new_video.gif" align="left">
 > new 버튼 클릭 시 OTP 입력으로 WEB과 연동
 > OTP는 웹의 내식물 상세 페이지에서 확인 가능 (Supool 연동)
 
-![load](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_load_video.gif)
+<img src="README.assets/supool_load_video.gif" align="left">
 > load 버튼 클릭 시 supool에 저장되어 있는 정보 불러오기
 
-![detail-main](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_main-detail.gif)
+<img src="README.assets/supool_main-detail.gif" align="left">
 > 메인 페이지에서 파도의 높이로 토양 습도 확인
 > 디테일 페이지에서 주변환경의 온습도, 토양 수분, 최근 관수 시간, 물통 잔여량 확인
 
-![goodnight](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/supool_goodnight.gif)
+<img src="README.assets/supool_goodnight.gif" align="left">
 > 절전모드 버튼 클릭 후 5초 뒤 절전모드
 > 화면 터치 시 메인페이지로 이동
 
