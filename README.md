@@ -26,26 +26,101 @@ Supool의 이름은 **나무와 식물이 우거진 곳**이라는 뜻의 수풀
 
 ## 2. WEB
 
-플랜티넘의 웹 서비스 [plantinum.co.kr](http://plantinum.co.kr)입니다.
-웹은 크게 두 가지 서비스를 제공합니다.
+웹은 크게 세 가지 서비스를 제공합니다.
 
-![1](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/1.png)
+**회원가입 및 프로필**
+
+<img src="README.assets/signup.gif" align="left">
+
+> 회원 가입
+>
+> 최초 회원가 입시 닉네임 자동 생성
+
+
+
+
+<img src="README.assets/profile.gif" align="left">
+
+> 닉네임, 이메일, 연락처, 주소, 프로필 이미지 변경
+>
+> 회원가입 후 경과일 확인
+>
+> 작성한 판매, 구매 게시글 확인
+>
+> 회원 탈퇴
+
+
+
+
+<img src="README.assets/change_password.gif" align="left">
+
+> 비밀번호 변경
+
+
+
 **내 식물**
-> 내 식물 페이지는 식물 모니터링 서비스입니다. 위 페이지에서는 키우고 있는 식물을 등록할 수 있으며 이에 따른 원예 정보를 제공합니다. 수풀과 연동 시 토양 수분량과 최근 관수 시간을 확인할 수 있습니다.
 
-![2](https://github.com/jina0924/Plantinum_vol2/blob/master/README.assets/2.png)
+<img src="README.assets/my_plant_create.gif" align="left">
+
+> 식물 리스트로부터 식물 선택
+>
+> 존재하지 않는 식물은 사용자가 직접 작성
+>
+> 반려 식물의 닉네임 지정
+
+
+
+
+<img src="README.assets/myplant_detail.gif" align="left">
+
+> 계절별 관리 정보와 특별 관리 정보 제공
+>
+> SuPool 연결 버튼을 통해 60초 동안 임시 비밀번호 발급, IoT 기기와 웹페이지 연결
+>
+> 연결 후 웹페이지에서 토양습도와 최근 관수 날짜확인 가능
+
+
+
+
+<img src="README.assets/myplant_sort.gif" align="left">
+
+> 등록순, 이름순 조회
+
+
+
 **잎팔이**
-> 잎팔이는 식물 거래 서비스입니다. 사이트 내부에서 직접적인 금전이 오가는 대신, 판매자와 구매자가 사이트 내부의 채팅을 통해 약속을 잡고, 사이트 외부에서 거래가 이루어지는 형식입니다. 또한 지역에 따른 게시글 필터링 서비스를 지원하여 사용자의 편리함을 증진시켰습니다.
+
+<img src="README.assets/leaf82_create.gif" align="left">
+
+> 판매, 구매 게시글 등록 및 조회
+
+
+
+
+<img src="README.assets/leaf82_search.gif" align="left">
+
+> 식물명, 지역별 게시글 검색
+>
+> 게시글은 20개씩 추가 조회
+
+
+
+<img src="README.assets/leaf82_chat.gif" align="left">
+
+> 거래자 간 채팅
+
+
+
 ### (1) BE
+
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/BE) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
+
 ### (2) FE
 [상세 코드](https://github.com/jina0924/Plantinum_vol2/tree/master/FE/plantinum) /
 [실행법](https://github.com/jina0924/Plantinum_vol2/blob/master/exec/%EA%B3%B5%ED%86%B5PJT_%EC%84%9C%EC%9A%B81%EB%B0%98_A109_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) /
 [기술 스택](https://github.com/jina0924/Plantinum_vol2/blob/master/Docs/STACK_EXPLANATION.md)
-
-
 
 
 
